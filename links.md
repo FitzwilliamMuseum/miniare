@@ -3,6 +3,7 @@ title: Links
 layout: default
 description: Links to pages related to the MINIARE project.
 keywords: miniare, manuscript illumination non invasive analysis research and expertise, links
+permalink: /links/
 ---
 ### MINIARE on the web
 

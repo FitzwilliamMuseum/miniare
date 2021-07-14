@@ -3,6 +3,7 @@ title: The Project
 layout: default
 description: Information about the MINIARE project.
 keywords: miniare, manuscript illumination non invasive analysis research and expertise, project, about
+permalink: /project/
 ---
 
 MINIARE is a new interdisciplinary project using a combination of advanced scientific methods for the study of illuminated manuscripts. It will undertake non-invasive analysis of Western, Egyptian, Byzantine, Slavonic, Armenian, Persian, Mughal, Ottoman, Sanskrit and Tibetan illuminated manuscripts (1350 BC - 19th c. AD) and a selection of early printed material.

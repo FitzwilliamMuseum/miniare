@@ -3,6 +3,7 @@ title: News
 layout: default
 description: News related to the MINIARE project.
 keywords: miniare, manuscript illumination non invasive analysis research and expertise, links
+permalink: /news/
 ---
 
 ### Zeno Karl Schindler/MINIARE Fellow 2020 appointed

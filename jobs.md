@@ -3,7 +3,7 @@ title: Jobs
 layout: default
 description: Jobs related to the MINIARE project
 keywords: jobs
-permalink: /jobs
+permalink: /jobs/
 ---
 ### Zeno Karl Schindler/MINIARE Fellow  
 (Research Assistant, non-invasive analysis of illuminated manuscripts)

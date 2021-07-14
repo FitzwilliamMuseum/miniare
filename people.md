@@ -3,7 +3,7 @@
  layout: default
  description: Information about the MINIARE team.
  keywords: "miniare, manuscript illumination non invasive analysis research and expertise, people, team, about"
- permalink: /people
+ permalink: /people/
 ---
 
 ![ManuscriptAnalysis1.jpg](images/ManuscriptAnalysis2.jpg)

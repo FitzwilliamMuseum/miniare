@@ -3,7 +3,7 @@ title: Support us
 layout: default
 description: Information about MINIARE supporters, and how to support the project.
 keywords: miniare, manuscript illumination non invasive analysis research and expertise, support
-permalink: /support-us
+permalink: /support-us/
 ---
 
 ![Analysis3.jpg]({{site.baseurl}}/images/Analysis3.jpg){: .img-fluid }

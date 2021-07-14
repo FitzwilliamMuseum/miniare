@@ -3,6 +3,7 @@ title: Publications
 layout: default
 description: Publications list relating to the Miniare project.
 keywords: miniare, manuscript illumination non invasive analysis research and expertise
+permalink: /publications/
 ---
 
 P. Ricciardi and S. Panayotova, 'A holistic, noninvasive approach to the technical study of manuscripts. The case of the Breslau Psalter', in [The noninvasive analysis of painted surfaces: scientific impact and conservation practice](http://opensi.si.edu/index.php/smithsonian/catalog/book/105), eds. A. Nevin and T. Doherty, Washington DC: Smithsonian Institution Scholarly Press, 2016, 25-36

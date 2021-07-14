@@ -3,7 +3,7 @@ title: Why Cambridge
 layout: default
 description: Information about why the MINIARE project will be hosted in Cambridge.
 keywords: "miniare, manuscript illumination non invasive analysis research and expertise, why cambridge"
-permalink: /why-cambridge
+permalink: /why-cambridge/
 ---
 
 ![CambridgeLibrary.jpg]({{site.baseurl}}/images/CambridgeLibrary.jpg){: .img-fluid }

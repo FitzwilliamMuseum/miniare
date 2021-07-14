@@ -3,6 +3,7 @@
  layout: default
  description: Information about MINIARE's objectives.
  keywords: miniare, manuscript illumination non invasive analysis research and expertise, objectives, about
+ permalink: /objectives/
 ---
 
 Develop a comprehensive protocol for the non-invasive analysis of artists' materials and techniques.  
