@@ -23,11 +23,12 @@ email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
   "MINIARE is a new interdisciplinary project using a combination of advanced
   scientific methods for the study of illuminated manuscripts. "
-baseurl: "/miniare" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://miniare.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: "/images/Home.png"
+google_analytics: "G-2R0YLY9DRS"
 # Build settings
 plugins:
   - jekyll-feed
