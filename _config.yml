@@ -28,7 +28,7 @@ url: "https://miniare.fitzmuseum.cam.ac.uk" # the base hostname & protocol for y
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: "/images/Home.png"
-google_analytics: "G-2R0YLY9DRS"
+#google_analytics: "G-2R0YLY9DRS"
 # Build settings
 plugins:
   - jekyll-feed
